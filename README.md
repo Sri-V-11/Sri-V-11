@@ -1,36 +1,79 @@
-## Hi there 👋
+# Hi, I'm Srijan 👋  
+### Welcome to my GitHub profile!
 
-<!--
-**Sri-V-11/Sri-V-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
-👩‍💻 About Me<br><br>🔭 I’m currently working on<br>• Full-stack web applications using python flask , django<br>• Machine Learning and Deep Learning projects, including ANN and RNN models<br>• Data analysis and visualization using Power BI & Tableau<br><br>👯 I’m looking to collaborate on<br>• Data Science & Machine Learning projects<br>• AI / Generative AI applications<br>• Full-stack projects with real-world use cases<br><br>🤝 I’m looking for help with<br>• Advanced Deep Learning concepts<br>• Transformer models & Hugging Face ecosystem<br>• Scaling ML models and deploying them efficiently<br><br>🌱 I’m currently learning<br>• Hugging Face Transformers<br>• Deep Learning (CNNs, RNNs, NLP)<br><br>💬 Ask me about<br>• Machine Learning & Data Science<br>• DSA (recursion, DP, graphs, trees)<br>• Full-stack development (MERN)<br>• Data visualization with Power BI / Tableau<br><br>⚡ Fun fact<br>• Solved 175+ LeetCode problems and enjoy breaking down complex problems into simple logic
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijancv11@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sri-V-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sri-V-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-V-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Curious **Data Scientist | Analytics | ML, DL & Generative AI Enthusiast**  
+🎓 B.Tech CSE @ BMS College of Engineering (CGPA: 9.28)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sri-V-11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m Currently Working On
+- Full-stack web applications using **React, Node.js, Express & MongoDB**
+- **Machine Learning & Deep Learning projects** (ANNs, RNNs, NLP)
+- Data analysis & dashboards using **Power BI** and **Tableau**
+- Applying ML models with **real-world datasets & deployments**
+
+---
+
+## 🌱 What I’m Currently Learning
+- 🤗 **Hugging Face Transformers**
+- 🧠 **Deep Learning** (CNNs, RNNs, NLP)
+- ☁️ **AWS basics & cloud deployment**
+- Model optimization & scalability
+
+---
+
+## 👯 I’m Looking to Collaborate On
+- 📊 **Data Science & Machine Learning projects**
+- 🤖 **AI / Generative AI applications**
+- 🌐 **Full-stack projects** with real-world impact
+
+---
+
+## 🤝 I’m Looking for Help With
+- Advanced **Deep Learning architectures**
+- Transformer-based models
+- Efficient ML model deployment
+
+---
+
+## 💬 Ask Me About
+- Machine Learning & Data Science  
+- DSA (Recursion, DP, Graphs, Trees)  
+- MERN Stack Development  
+- Power BI & Tableau visualizations  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C, Java, Python  
+**Web:** HTML, CSS, JavaScript, React, Node.js, Express, REST APIs  
+**Databases:** MySQL, MongoDB  
+**ML/DL:** Scikit-learn, PyTorch, Keras, NLP  
+**Tools:** Git, GitHub, Flask, Power BI, Tableau  
+
+---
+
+## 📌 Projects Snapshot
+- 🩺 **Cura Connect** – Doctor-patient platform using wearable health data  
+- 🏡 **Airbnb Clone** – Auth, maps, dynamic pricing, REST workflows  
+- 📈 **Customer Churn Prediction** – ANN with Streamlit & TensorBoard  
+- 🏠 **House Price Prediction** – Regression + EDA + deployment  
+- 🎬 **IMDB Sentiment Analysis** – RNN for NLP classification  
+
+---
+
+## 📊 Problem Solving
+- ✅ **175+ LeetCode problems solved**
+- Strong in **Recursion, Backtracking, DP, BSTs & Graphs**
+- Completed ~**80% DSA theory**
+
+---
+
+## ⚡ Fun Fact
+> I enjoy turning complex problems into simple logic and clean solutions 😄
+
+---
+
+📫 **How to reach me:**  
+- 📧 Email: **srijancv11@gmail.com**  
+- 💻 GitHub: [Sri-V-11](https://github.com/Sri-V-11)
