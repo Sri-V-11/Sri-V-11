@@ -1,7 +1,7 @@
 # Hi, I'm Srijan 👋  
 ### Welcome to my GitHub profile!
 
-🚀 Curious **Data Scientist | Analytics | ML, DL & Generative AI Enthusiast**  
+🚀 Curious **Software Development | Data Scientist | Analytics | ML, DL & Generative AI Enthusiast**  
 🎓 B.Tech CSE @ BMS College of Engineering (CGPA: 9.28)
 
 ---
@@ -23,9 +23,9 @@
 ---
 
 ## 👯 I’m Looking to Collaborate On
+- 🌐 **Full-stack projects** with real-world impact
 - 📊 **Data Science & Machine Learning projects**
 - 🤖 **AI / Generative AI applications**
-- 🌐 **Full-stack projects** with real-world impact
 
 ---
 
@@ -54,16 +54,19 @@
 ---
 
 ## 📌 Projects Snapshot
-- 🩺 **Cura Connect** – Doctor-patient platform using wearable health data  
-- 🏡 **Airbnb Clone** – Auth, maps, dynamic pricing, REST workflows  
-- 📈 **Customer Churn Prediction** – ANN with Streamlit & TensorBoard  
-- 🏠 **House Price Prediction** – Regression + EDA + deployment  
-- 🎬 **IMDB Sentiment Analysis** – RNN for NLP classification  
-
+- 🩺 **Cura Connect** – Doctor-patient platform using wearable health data
+- 🔐 **Secure NetBanking Application** – Security-first backend with ACID-compliant transactions, JWT authentication, and concurrent fund transfers
+- 📱 **TATTVA-AI** – Mobile-first learning application with REST APIs and a Retrieval-Augmented Generation (RAG) pipeline
+- 🏡 **Airbnb Clone** – Auth, maps, dynamic pricing, REST workflows
+- 🌐 **DevForge** – High-performance developer portfolio with scalable backend architecture
+- 📈 **Customer Churn Prediction** – ANN with Streamlit & TensorBoard
+- 🏠 **House Price Prediction** – Regression + EDA + deployment
+- 🎬 **IMDB Sentiment Analysis** – RNN for NLP classification
+ 
 ---
 
 ## 📊 Problem Solving
-- ✅ **175+ LeetCode problems solved**
+- ✅ **200+ DSA solved across various platforms like leetcode,hackerrank etc.**
 - Strong in **Recursion, Backtracking, DP, BSTs & Graphs**
 - Completed ~**80% DSA theory**
 
@@ -75,5 +78,5 @@
 ---
 
 📫 **How to reach me:**  
-- 📧 Email: **srijancv11@gmail.com**  
+- 📧 Email: **cv11srijan@gmail.com**  
 - 💻 GitHub: [Sri-V-11](https://github.com/Sri-V-11)
