@@ -1,7 +1,7 @@
 # Hi, I'm Srijan 👋  
 ### Welcome to my GitHub profile!
 
-🚀 Curious **Software Development | Data Scientist | Analytics | ML, DL & Generative AI Enthusiast**  
+🚀 Curious **Software Developer | Data Scientist | Analytics | ML, DL & Generative AI Enthusiast**  
 🎓 B.Tech CSE @ BMS College of Engineering (CGPA: 9.28)
 
 ---
